@@ -354,5 +354,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Performance optimizations
 
 ---
-
-**Note**: This PowerShell edition replaces the original Python implementation to better support DevOps teams working in Windows environments. All functionality has been preserved and enhanced with Windows-native features.
